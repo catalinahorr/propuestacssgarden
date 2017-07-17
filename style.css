@@ -16,7 +16,7 @@ h1{
 	text-align: right;
 	margin-right: 50px;
 	color:#ffffff;
-
+	
 }
 h2{
 	text-align: right;
@@ -156,15 +156,27 @@ footer{
 	text-align:left;
 	font-family: helvetica;
 	font-size: 18px; 
+	list-style: none;
 }
 
 .design-archives {
 	margin-left: 800px; 
 	text-align:left;
+	list-style: none;
 
 }
 .zen-resources{
 	margin-left: 800px; 
 	text-align:left;
+	list-style: none;
+
 
 }
+
+
+
+
+ 
+
+
+
