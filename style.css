@@ -1,0 +1,170 @@
+.intro, #zen-intro{
+	background-image: url(https://deplatayexacto.files.wordpress.com/2011/04/la-cama-henri-de-toulouse-lautrec-1893.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover auto; 
+    padding-top:80px;
+    padding-bottom: :50px; 
+}
+
+h1{
+	font-family: garamond;
+	font-size:70px;
+	margin-left: 600px;
+	padding-top: 400px;
+	padding-bottom: 50px;
+	text-align: right;
+	margin-right: 50px;
+	color:#ffffff;
+
+}
+h2{
+	text-align: right;
+	margin-right: 0px; 
+	margin-left: 900px;
+	font-size: 16px; 
+	font-family: helvetica;
+	color: #C7A9C7;
+	background-color: #870a38;
+	padding-right: 50px;
+	padding-left: 20px;
+	padding-top: 15px;
+	padding-bottom: 5px;
+	opacity: 0.6;
+
+
+ 
+}
+h3{
+	font-family: garamond;
+	font-size: 30px;
+}
+.summary{
+	text-align: right;
+	margin-right: 0px; 
+	margin-left: 900px; 
+	font-size: 14px;
+	font-family: helvetica; 
+	background-color: #870a38; 
+	color: white;
+	padding-right: 50px;
+	padding-left: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #C7A9C7;
+	margin-top: -13px;
+	opacity: 0.6;
+    
+
+
+	
+	
+	
+
+}
+#zen-preamble{
+	margin: -16px; 
+	margin-left: 300px; 
+	margin-right: 650px; 
+	background-color: #1a2948; 
+	padding-top: 10px;
+	padding-left:20px;
+	padding-right: 20px; 
+	border-style: none; 
+	font-family: helvetica;
+	font-size: 16px;
+	color: #C7A9C7;
+	
+
+
+}
+
+
+#zen-explanation{
+	margin: -16px; 
+	margin-left: 300px; 
+	margin-right: 650px; 
+	background-color: #1a2948; 
+	padding-top: 20px;
+	padding-left:20px;
+	padding-right: 20px; 
+	border-style: none; 
+	font-family: helvetica;
+	font-size: 16px;
+	color: #C7A9C7; 
+	
+
+
+}
+
+#zen-participation{
+	margin: -20px; 
+	margin-left: 300px; 
+	margin-right: 650px;
+	background-color: #1a2948; 
+	padding-top: 20px; 
+	padding-left:20px;
+	padding-right: 20px; 
+	padding-bottom: 20px; 
+	font-family: helvetica;
+	font-size: 16px;
+	color: #C7A9C7;
+
+}
+#zen-benefits{
+	margin: -20px; 
+	margin-left: 300px; 
+	margin-right: 650px; 
+	background-color: #870a38;
+	padding-top: 20px; 
+	padding-left:20px;
+	padding-right: 20px;
+	font-family: helvetica;
+	font-size: 16px;
+	color: #C7A9C7;
+}
+#zen-requirements{
+	margin: -20px; 
+	margin-left: 300px; 
+	margin-right: 650px; 
+	background-color: #870a38;  
+	padding-top: 20px;
+	padding-left:20px;
+	padding-right: 20px;
+	padding-bottom: 20px; 
+	font-family: helvetica;
+	font-size: 16px;
+	color: #C7A9C7;
+
+}
+footer{
+	margin: 70px; 
+	margin-left: 400px; 
+	font-family: helvetica;
+	color:#1a2948;
+	font-size: 14px;
+}
+
+.select, {
+	margin-left: 800px; 
+	text-align: left;
+
+}
+
+.design-selection{
+	margin-left: 800px; 
+	text-align:left;
+	font-family: helvetica;
+	font-size: 18px; 
+}
+
+.design-archives {
+	margin-left: 800px; 
+	text-align:left;
+
+}
+.zen-resources{
+	margin-left: 800px; 
+	text-align:left;
+
+}
